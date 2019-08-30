@@ -1,2 +1,2 @@
 # first
-学习github
+study github
